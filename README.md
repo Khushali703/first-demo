@@ -1,2 +1,2 @@
 # first-demo
-author = tank khushali
+author : tank khushali
